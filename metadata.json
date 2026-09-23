@@ -1,0 +1,6 @@
+{
+  "name": "Digital Clock",
+  "description": "Educational full-screen digital clock with reading session timer, quick 5m/10m/15m eye-rest break options, real-time break suggestions, daily, weekly, and monthly reading activity analysis, interactive 7-day and 30-day activity charts, 10 font styles, custom colors, backgrounds, screen-awake mode, and local Room persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
